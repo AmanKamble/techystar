@@ -1,0 +1,8 @@
+root{
+    --first-color: white;
+    --second-color: #090c31;
+    --third-color: #5853ff;
+    --dark: rgb(44,44,44) ;
+    --text1: 'Roboto';
+    --text2: cursive;
+}
